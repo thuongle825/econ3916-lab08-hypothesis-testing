@@ -14,7 +14,7 @@ I tested whether the National Supported Work (NSW) job training program raised p
 - I simulated p-value distributions for two cases: when the null hypothesis is true and when it is false.
 
 ## Key Findings
-- Trainees earned $[YOUR VALUE] more in 1978 than controls (Welch's t = [YOUR VALUE], p = [YOUR VALUE]).
-- The effect size was a Cohen's d of [YOUR VALUE].
-- [YOUR VALUE] of the 5 subgroup effects were significant before correction, and [YOUR VALUE] remained significant after the Bonferroni correction.
+- Trainees earned $1,794.34 more in 1978 than controls (Welch's t = 2.6741, p = 0.0079).
+- The effect size was a Cohen's d of 0.27.
+- 2 of the 5 subgroup effects were significant before correction, and 1 remained significant after the Bonferroni correction.
 - Testing many subgroups raises the chance of a false positive, so the corrected results are the ones I would rely on.
